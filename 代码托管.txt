@@ -1,0 +1,30 @@
+GitHub Desktop使用简介
+https://blog.csdn.net/LYKXHTP/article/details/81590119
+
+1. Git for Windows下载
+https://gitforwindows.org/
+
+2. Git官方最新版下载 Git-2.18.0-64-bit 64位Windows版本
+https://download.csdn.net/download/qq_34868086/10588471
+
+3. 汉化包下载地址:
+https://github.com/lkyero/GitHubDesktop_zh/releases
+
+
+GitHub For Windows桌面版中文汉化
+https://blog.csdn.net/weixin_41272892/article/details/102722799
+
+
+
+WEB登陆: 
+	https://github.com/	5@q	/	N5
+本地:
+	1. 安装 Git-For-Windows-2.18.0-64-bit.exe
+	2. 安装 TortoiseGit-2.10.0.2-64bit.msi
+	3. 安装 TortoiseGit-LanguagePack-2.10.0.0-64bit-zh_CN.msi
+	4. 新建目录	D:\CC\GitHub\git
+	5. git右键"git克隆",URL=https://github.com/nlcncn/git.git	递归勾上
+	6. 修改(新建一个文本文档),然后右键提交(提交:只是提交到本地库)
+	7. 提交后图标变成绿勾,再推送(推送:推送到服务器)
+
+	根据远端网址: https://github.com/nlcncn/VB.git
